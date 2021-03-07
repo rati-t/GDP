@@ -1,0 +1,19 @@
+body {
+    background-color: #1b541f;
+    height: 100%; 
+    
+}
+.bar:hover {
+    opacity: 0.7;
+}
+
+h1 {
+    text-align:center;
+    font-size: 3rem;
+}
+
+.t1 {
+    font-size: 100px;
+    color: red;
+}
+
